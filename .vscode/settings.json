@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/103e4b74-44e0-4279-bb71-8c66f42ebb1f/resourceGroups/group3/providers/Microsoft.Web/sites/djangoproxy",
+    "appService.deploySubpath": "."
+}
